@@ -8,9 +8,9 @@ public class Main {
 		
 		int M, N, i, j;
 		
-		System.out.print("Quantas linhas vai ter a matriz? ");
+		System.out.print("Quantas linhas vai ter na matriz? ");
 		M = sc.nextInt();
-		System.out.print("Quantas colunas vai ter a matriz? ");
+		System.out.print("Quantas colunas vai ter na matriz? ");
 		N = sc.nextInt();
 		
 		int[][] mat = new int[M][N];
